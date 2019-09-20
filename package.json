@@ -1,0 +1,27 @@
+{ 
+   "name":"@omostan/angular-custom-bootstrap-daterangepicker",
+   "version":"1.1.0",
+   "description":"A custom date range picker component used to create a drop-down menu from which a user can select a range of dates.",
+   "author":"Stanley Omoregie",
+   "repository":{ 
+      "type":"git",
+      "url":"https://github.com/omostan/angular-custom-bootstrap-daterangepicker.git"
+   },
+   "homepage":"https://github.com/omostan/angular-custom-bootstrap-daterangepicker",
+   "main": "daterangepicker.min.min.js",
+   "keywords":[ 
+      "angular",
+      "angularjs",
+      "angular-js",
+      "directive",
+      "component",
+      "date",
+      "daterangepicker",
+      "datepicker",
+      "daterange"
+   ],
+   "license":"MIT",
+   "peerDependencies":{ 
+      "angular":"^1.5.0"
+   }
+}
